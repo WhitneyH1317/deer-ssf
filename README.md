@@ -3,6 +3,8 @@
 Data and code for the step-selection analysis in:
 
 > Clevinger et al. *Seasonal resource selection by white-tailed deer reveals …* (in prep.)
+>
+> Principal code authors: Garrett Clevinger and Daniel Crawford
 
 Adult female white-tailed deer (*Odocoileus virginianus*) were GPS-collared in Bath County, Virginia, USA (2019–2021). Hourly fixes were used to fit season-specific step-selection functions (SSFs) for four biological seasons: Early Gestation (Dec 1–Feb 28), Late Gestation (Mar 1–May 31), Fawning (Jun 1–Aug 31) and Breeding (Sep 1–Nov 30).
 
