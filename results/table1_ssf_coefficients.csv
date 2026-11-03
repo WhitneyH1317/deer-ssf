@@ -1,0 +1,17 @@
+"season","resource","beta","SE","z","p","interpretation","pct_change_per_100m","n_deer","n_used_steps"
+"Fawning","Disturbed forest",-0.497,0.251,-1.985,"0.047","Selected",-13.1,32,149645
+"Fawning","Forested edge",-0.052,0.116,-0.449,"0.653","Not Selected",-4.8,32,149645
+"Fawning","Open",-0.465,0.21,-2.214,"0.027","Selected",-14.4,32,149645
+"Fawning","Elevation",-1.988,0.707,-2.81,"0.005","Avoided",-68,32,149645
+"Breeding","Disturbed forest",-0.516,0.239,-2.161,"0.031","Selected",-13.5,30,139181
+"Breeding","Forested edge",0.137,0.064,2.124,"0.034","Avoided",13.6,30,139181
+"Breeding","Open",-0.565,0.082,-6.854,"<0.001","Selected",-17.2,30,139181
+"Breeding","Elevation",0.513,0.194,2.636,"0.008","Selected",34.1,30,139181
+"Early Gestation","Disturbed forest",-0.338,0.143,-2.358,"0.018","Selected",-9.1,28,94327
+"Early Gestation","Forested edge",0.096,0.047,2.041,"0.041","Avoided",9.4,28,94327
+"Early Gestation","Open",-0.424,0.093,-4.578,"<0.001","Selected",-13.2,28,94327
+"Early Gestation","Elevation",0.959,0.185,5.183,"<0.001","Selected",73.2,28,94327
+"Late Gestation","Disturbed forest",-0.271,0.168,-1.611,"0.107","Not Selected",-7.3,33,139975
+"Late Gestation","Forested edge",-0.029,0.062,-0.463,"0.643","Not Selected",-2.7,33,139975
+"Late Gestation","Open",-0.237,0.088,-2.693,"0.007","Selected",-7.6,33,139975
+"Late Gestation","Elevation",0.18,0.211,0.855,"0.393","Not Selected",10.9,33,139975

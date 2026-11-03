@@ -1,0 +1,10 @@
+"season","effect","component","group","term","estimate","std.error","statistic","p.value"
+"Fawning","fixed","cond",NA,"d2emsuc_sc",-0.497199110784938,0.250503364563467,-1.98480013093385,0.0471667129335105
+"Fawning","fixed","cond",NA,"d2edge_sc",-0.0521812717138817,0.116109303635154,-0.449415077691352,0.653132256589938
+"Fawning","fixed","cond",NA,"d2herb_sc",-0.465179756223864,0.210118405660356,-2.21389342243439,0.0268361113252074
+"Fawning","fixed","cond",NA,"elev_sc",-1.98757637280534,0.707321973440127,-2.81000230084551,0.00495411458073357
+"Fawning","ran_pars","cond","CollarSerialNumber","sd__d2emsuc_sc",1.40422744374058,NA,NA,NA
+"Fawning","ran_pars","cond","CollarSerialNumber.1","sd__d2edge_sc",0.650782712891942,NA,NA,NA
+"Fawning","ran_pars","cond","CollarSerialNumber.2","sd__d2herb_sc",1.17570691670131,NA,NA,NA
+"Fawning","ran_pars","cond","CollarSerialNumber.3","sd__elev_sc",3.93336003562802,NA,NA,NA
+"Fawning","ran_pars","cond","step_an_id","sd__(Intercept)",1000,NA,NA,NA

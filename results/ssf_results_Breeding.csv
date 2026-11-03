@@ -1,0 +1,10 @@
+"season","effect","component","group","term","estimate","std.error","statistic","p.value"
+"Breeding","fixed","cond",NA,"d2emsuc_sc",-0.515702166163075,0.238602462706719,-2.16134469155482,0.0306687230651892
+"Breeding","fixed","cond",NA,"d2edge_sc",0.136832807423086,0.0644372841509449,2.12350363964058,0.0337116708293475
+"Breeding","fixed","cond",NA,"d2herb_sc",-0.564940753185127,0.0824294765287914,-6.85362538955104,7.20014822907169e-12
+"Breeding","fixed","cond",NA,"elev_sc",0.512504167876271,0.194399229623649,2.63634875955251,0.00838035488857764
+"Breeding","ran_pars","cond","CollarSerialNumber","sd__d2emsuc_sc",1.29462059102557,NA,NA,NA
+"Breeding","ran_pars","cond","CollarSerialNumber.1","sd__d2edge_sc",0.343889152299595,NA,NA,NA
+"Breeding","ran_pars","cond","CollarSerialNumber.2","sd__d2herb_sc",0.433018610664975,NA,NA,NA
+"Breeding","ran_pars","cond","CollarSerialNumber.3","sd__elev_sc",1.02171363423796,NA,NA,NA
+"Breeding","ran_pars","cond","step_an_id","sd__(Intercept)",1000,NA,NA,NA

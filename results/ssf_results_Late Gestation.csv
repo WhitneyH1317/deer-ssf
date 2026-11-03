@@ -1,0 +1,10 @@
+"season","effect","component","group","term","estimate","std.error","statistic","p.value"
+"Late Gestation","fixed","cond",NA,"d2emsuc_sc",-0.270690983526899,0.168041478500026,-1.61085814016364,0.107210645497418
+"Late Gestation","fixed","cond",NA,"d2edge_sc",-0.0288400806823838,0.0622354929757087,-0.463402462219435,0.643075914098414
+"Late Gestation","fixed","cond",NA,"d2herb_sc",-0.237274243671115,0.0880923444102195,-2.69347177963843,0.00707121313374137
+"Late Gestation","fixed","cond",NA,"elev_sc",0.179981979224815,0.210582348849712,0.854686920380319,0.392724493387238
+"Late Gestation","ran_pars","cond","CollarSerialNumber","sd__d2emsuc_sc",0.951245154695837,NA,NA,NA
+"Late Gestation","ran_pars","cond","CollarSerialNumber.1","sd__d2edge_sc",0.349189813409075,NA,NA,NA
+"Late Gestation","ran_pars","cond","CollarSerialNumber.2","sd__d2herb_sc",0.488643845312427,NA,NA,NA
+"Late Gestation","ran_pars","cond","CollarSerialNumber.3","sd__elev_sc",1.16073271876876,NA,NA,NA
+"Late Gestation","ran_pars","cond","step_an_id","sd__(Intercept)",1000,NA,NA,NA

@@ -1,0 +1,10 @@
+"season","effect","component","group","term","estimate","std.error","statistic","p.value"
+"Early Gestation","fixed","cond",NA,"d2emsuc_sc",-0.338260865890455,0.143452880024685,-2.35799285334842,0.0183740466880332
+"Early Gestation","fixed","cond",NA,"d2edge_sc",0.0957811728109339,0.0469297872670799,2.04094623881072,0.0412561710984734
+"Early Gestation","fixed","cond",NA,"d2herb_sc",-0.423968486514741,0.0926040461437921,-4.57829332701531,4.68785019947683e-06
+"Early Gestation","fixed","cond",NA,"elev_sc",0.958670343752136,0.184951909578519,5.18334926055545,2.17936376936749e-07
+"Early Gestation","ran_pars","cond","CollarSerialNumber","sd__d2emsuc_sc",0.737439394841182,NA,NA,NA
+"Early Gestation","ran_pars","cond","CollarSerialNumber.1","sd__d2edge_sc",0.236100748490902,NA,NA,NA
+"Early Gestation","ran_pars","cond","CollarSerialNumber.2","sd__d2herb_sc",0.474536135463585,NA,NA,NA
+"Early Gestation","ran_pars","cond","CollarSerialNumber.3","sd__elev_sc",0.92759026058329,NA,NA,NA
+"Early Gestation","ran_pars","cond","step_an_id","sd__(Intercept)",1000,NA,NA,NA
